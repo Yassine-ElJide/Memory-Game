@@ -7,7 +7,10 @@
 }
 body{
 	background: linear-gradient(160deg,#00072D 50%, #A6E1FA 50%);
-	overflow-y: hidden;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 .container{
 	background: #0A2472;
